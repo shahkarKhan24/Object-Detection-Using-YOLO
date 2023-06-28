@@ -4,4 +4,8 @@
 </h3>
 I used YOLOv5 for object detection for custom dataset as well as on pre-trained.
 
-The trained model can be found in the "Model" folder 
+<div>
+The trained model can be found in the "Model" folder; the Results of our model can be observed below.
+<img src="https://github.com/shahkarKhan24/Object-Detection-Using-YOLO/blob/main/val_batch1_labels.jpg?raw=true" width="700" alt="results"/>
+</div>
+
