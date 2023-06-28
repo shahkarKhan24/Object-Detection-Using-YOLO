@@ -13,7 +13,7 @@ We used YOLOv5 for object detection for custom datasets as well as on pre-traine
 <div>
 <p>The trained model can be found in the "Model" folder; the Results of our model can be observed below.</p>
   
-<img src="https://github.com/shahkarKhan24/Object-Detection-Using-YOLO/blob/main/val_batch1_labels.jpg?raw=true" width="600" alt="results"/>
+<img src="https://github.com/shahkarKhan24/Object-Detection-Using-YOLO/blob/main/val_batch1_pred.jpg?raw=true" width="600" alt="results"/>
 
 </div>
 
